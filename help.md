@@ -9,3 +9,6 @@ Let's assume that a winemaker in Barrossa Valley (South Australia) must decide h
 **How to operate**
 
 The graphical interface is relatively intuitive. All the inputs are controlled on the left hand side. You can specify the profit per unit for both table and desert wines (in the text boxes), and specify the resources available for labor and bottling process (via the sliders). The profit desired slider gives you an option to see whether your guess is reasonable and see how it interacts with the constraints.
+
+**The Source Files**
+The source files of this Shiny application (ur.R and server.R) can be found at https://github.com/mryongwu/DevelopDataProducts
